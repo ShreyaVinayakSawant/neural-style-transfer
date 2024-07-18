@@ -1,2 +1,2 @@
 # neural-style-transfer
-task1 progity
+Apply the artistic style of one image (e.g., a famous painting) to the content of another image using neural style transfer. 
